@@ -1,2 +1,3 @@
 # Impressora3D-F1
-Preparação da Impressora GTMax Core A3
+
+Colocar para imprimir na impressora o arquivo: TESTE BAL.gcode, quando a mesma estiver com sensor de nível desnivelado. 
